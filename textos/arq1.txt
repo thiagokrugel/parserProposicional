@@ -1,0 +1,5 @@
+4
+(\lor (\land (\rightarrow a b) b) b)
+(\lor (\wedge (\rightarrow a b) b) b)
+(\vee (\land (\rightarrow a b) b) b)
+(\vee (\wedge (\rightarrow a b) b) b)
