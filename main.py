@@ -238,7 +238,7 @@ def parserLogica():
         quantidade = 0
         palavrasChecadas = 0
         arq = open(os.path.join(os.getcwd(), nomeArquivo), 'r')
-        ###print("Arquivo: " + nomeArquivo)
+        ### print("Arquivo: " + nomeArquivo)
 
         for i in arq:
             if inicioArquivo == False:
